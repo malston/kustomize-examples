@@ -1,4 +1,0 @@
-apiVersion: someteam.example.com/v1
-kind: Validator
-metadata:
-  name: notImportantHere
