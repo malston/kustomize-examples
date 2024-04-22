@@ -1,0 +1,6 @@
+apiVersion: someteam.example.com/v1
+kind: SedTransformer
+metadata:
+  name: notImportantHere
+argsOneLiner: s/one/two/g
+argsFromFile: sed-input.txt

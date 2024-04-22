@@ -1,0 +1,4 @@
+#!/bin/bash
+
+sed 's/^  name: cm$/  name: cm\n  labels:\n    validated-by: whatever/'
+

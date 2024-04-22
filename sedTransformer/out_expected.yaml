@@ -1,0 +1,7 @@
+apiVersion: apps/v1
+beans: two two two two
+fruit: orange
+kind: MeatBall
+metadata:
+  name: notImportantHere
+vegetable: tomato

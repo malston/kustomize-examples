@@ -1,0 +1,2 @@
+s/$FRUIT/orange/g
+s/$VEGGIE/tomato/g

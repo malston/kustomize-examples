@@ -1,0 +1,7 @@
+apiVersion: apps/v1
+kind: MeatBall
+metadata:
+  name: notImportantHere
+beans: one one one one
+fruit: $FRUIT
+vegetable: $VEGGIE

@@ -1,0 +1,7 @@
+namePrefix: hello-
+transformers:
+- myAnnotator.yaml
+- myLabeller.yaml
+resources:
+- deployment.yaml
+- service.yaml
